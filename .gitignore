@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.ipynb_checkpoints/
+*.png
+*.pkl
+.DS_Store

@@ -5,5 +5,4 @@ venv/
 env/
 .ipynb_checkpoints/
 *.png
-*.pkl
 .DS_Store
